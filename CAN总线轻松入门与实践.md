@@ -38,6 +38,8 @@
 
 #### 	_Following four different frame types are used to represent and control in message transmission: data frames, remote frames, error frames, overload frames_
 
-#### 	_data frame form:_ ![image.png](https://cdn.nlark.com/yuque/0/2022/png/32406541/1660008144479-33ba8559-ba15-48dc-9e96-51a3158f02ed.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_825%2Climit_0)
+#### 	_data frame form:_
+
+####  ![image.png](https://cdn.nlark.com/yuque/0/2022/png/32406541/1660008144479-33ba8559-ba15-48dc-9e96-51a3158f02ed.png?x-oss-process=image%2Fformat%2Cwebp%2Fresize%2Cw_825%2Climit_0)
 
 #### 	_Coding-bit padding: whenever, sender detect_
